@@ -106,7 +106,7 @@
 		<dependency>
 		    <groupId>org.camunda.bpm.assert</groupId>
 		    <artifactId>camunda-bpm-assert</artifactId>
-		    <version>6.0.0</version>
+		    <version>7.0.0</version>
 		    <scope>test</scope>
 		</dependency> 		
 		<dependency>
@@ -139,8 +139,8 @@
 			<id>camunda-bpm-nexus-public</id>
 			<name>camunda-bpm-nexus-public</name>
 			<url>
-      https://app.camunda.com/nexus/content/groups/public
-    </url>
+			  https://app.camunda.com/nexus/content/groups/public
+			</url>
 		</repository>
 	</repositories>
 </project>
